@@ -3,9 +3,11 @@
 <h1 align="center">Hi 👋, I'm Al Mounayar Mouhamad</h1>
 <h3 align="center">A passionate Software Engineer student</h3>
 
+"Under pressure, you don’t rise to the occasion, you sink to the level of your training"
+
 - 🔭 I’m currently working on **Creating my first web app using Node.js**
 
-- 🌱 I’m currently learning **NodeJS , Spring**
+- 🌱 I’m currently learning **NodeJS , Express JS**
 
 - 📫 How to reach me **muhammad.mnayar@gmail.com**
 
