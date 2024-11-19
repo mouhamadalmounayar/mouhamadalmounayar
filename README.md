@@ -1,11 +1,6 @@
 ## Hi there 👋, I am Mouhamad
 ![alt](./assets/frieren.webp)
 
-## About
-- My name is mouhamad al mounayar.   
-- I am a software engineer based in France.
-- I have a strong passion for solving problems and creating innovative tools.
-
 ## I 💙 to use 
 
 ### Languages
